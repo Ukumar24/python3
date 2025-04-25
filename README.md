@@ -1,1 +1,3 @@
-# python3
+fruits=['apple','mango','cherry']
+fruits.sort()
+print([::-fruits])
